@@ -36,4 +36,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anya-xcode/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/anya-xcode/leetcode/tree/master/0069-sqrtx) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/anya-xcode/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
