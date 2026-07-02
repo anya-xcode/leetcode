@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/anya-xcode/leetcode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/anya-xcode/leetcode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/anya-xcode/leetcode/tree/master/0088-merge-sorted-array) |
+| [0143-reorder-list](https://github.com/anya-xcode/leetcode/tree/master/0143-reorder-list) |
 ## Sorting
 |  |
 | ------- |
@@ -49,4 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/anya-xcode/leetcode/tree/master/0086-partition-list) |
+| [0143-reorder-list](https://github.com/anya-xcode/leetcode/tree/master/0143-reorder-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/anya-xcode/leetcode/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/anya-xcode/leetcode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
