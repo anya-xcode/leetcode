@@ -11,10 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/anya-xcode/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anya-xcode/leetcode/tree/master/0088-merge-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/anya-xcode/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0496-next-greater-element-i](https://github.com/anya-xcode/leetcode/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anya-xcode/leetcode/tree/master/0001-two-sum) |
+| [0496-next-greater-element-i](https://github.com/anya-xcode/leetcode/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/anya-xcode/leetcode/tree/master/0143-reorder-list) |
+| [0496-next-greater-element-i](https://github.com/anya-xcode/leetcode/tree/master/0496-next-greater-element-i) |
 ## Recursion
 |  |
 | ------- |
@@ -76,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/anya-xcode/leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/anya-xcode/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
